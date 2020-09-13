@@ -1,4 +1,4 @@
-# Course name: Materials
+# Programming in Swift: Fundamentals: Materials
 
 This repo contains all the downloadable materials and projects associated with **[Programming in Swift: Fundamentals](https://www.raywenderlich.com/5539282-programming-in-swift-fundamentals)** from [raywenderlich.com](https://www.raywenderlich.com).
 
