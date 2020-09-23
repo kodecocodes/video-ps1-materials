@@ -8,4 +8,4 @@ Each edition has its own branch, named `versions/[VERSION]`. The default branch 
 
 | Branch                                                                            | Version | Release Date |
 | --------------------------------------------------------------------------------- |:-------:|:------------:|
-| [versions/1.0](https://github.com/raywenderlich/TODO-materials/tree/versions/1.0) | 1.0     | YYYY-MM-DD   |
+| [versions/5.1](https://github.com/raywenderlich/video-ps1-materials/tree/versions/5.1) | 5.1     | YYYY-MM-DD   |
