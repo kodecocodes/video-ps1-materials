@@ -33,7 +33,7 @@ let authorIsStudent = student == author
  
  Create a constant named `studentBeforeAuthor` which uses string comparison to determine if the string value in the constant `student` comes, alphabetically speaking, before the string value in the constant `author`.
  
- The constants `student` and an `author` were declared above in Challenge 3, so you do not need to redeclare them here.
+ The constants `student` and an `author` were declared above in Challenge 2, so you do not need to redeclare them here.
  */
 
 // TODO: Write solution here
