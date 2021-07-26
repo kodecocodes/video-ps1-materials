@@ -9,7 +9,7 @@
  */
 
 // TODO: Write solution here
-
+let myAge = 42
 
 /*:
  ## Challenge 2
