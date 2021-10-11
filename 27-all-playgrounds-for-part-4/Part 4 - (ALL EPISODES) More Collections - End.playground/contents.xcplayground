@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='01 - Introduction'/>
+        <page name='02 - Creating and Populating Dictionaries'/>
+        <page name='03 - Accessing and Working with Dictionaries'/>
+        <page name='04 - Challenge - Dictionaries'/>
+        <page name='05 - Working with Sets'/>
+        <page name='06 - Challenge - Sets'/>
+    </pages>
+</playground>
